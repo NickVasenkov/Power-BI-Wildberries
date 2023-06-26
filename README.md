@@ -5,4 +5,5 @@ Three interconnected sliders to narrow down data by time period, supplier articl
 
 Bottom left corner shows products with the best growth in revenue compared to the previous period of the same lenght as the chosen period (e.g., if 15 days are chosen, growth is calculated compared to the previous 15 days).
 
-Power BI file: 
+Power BI file: https://github.com/NickVasenkov/Power-BI-Wildberries/blob/main/Wildberries.pbix
+Screenshot: 
