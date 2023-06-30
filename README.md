@@ -1,5 +1,5 @@
 # Power BI Wildberries
- Example of Power BI analytics for Wildberries E-commerce platform. 
+ An example of Power BI analytics for Wildberries E-commerce platform. 
 
 Three interconnected sliders to narrow down data by time period, supplier article and product category.
 
